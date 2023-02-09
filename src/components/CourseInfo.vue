@@ -1,6 +1,5 @@
 <template>
-  <h1>info</h1>
-  <div class="sticky">
+  <div class="sticky z-20">
     <aside
       class="hidden w-50 overflow-y-auto border-l border-gray-200 bg-white p-8 lg:block shadow-lg"
     >
@@ -59,15 +58,7 @@
             </div>
           </dl>
 
-          <div class="">
-            hta
-
-            <BaseTabGroup :selected-index="selectedIndex">
-              <BaseTab title="one"> </BaseTab>
-              <BaseTab title="two"> </BaseTab>
-              <BaseTab title="three"> </BaseTab>
-            </BaseTabGroup>
-          </div>
+          <div class=""></div>
         </div>
         <div
           class="mt-2 divide-y divide-gray-200 border-t border-gray-200"
@@ -98,8 +89,7 @@
 
 <script setup>
 import BaseIcon from "./BaseIcon.vue";
-import BaseTab from "./BaseTab.vue";
-import BaseTabGroup from "./BaseTabGroup.vue";
+
 const currentFile = {
   name: "IMG_4985.HEIC",
   size: "3.9 MB",
