@@ -29,8 +29,8 @@
       <label>Teach on Udemy</label>
       <label>My learning</label>
       <BaseIcon name="HeartIcon" class="h-8 w-8 text-black"></BaseIcon>
-      <BaseIcon name="HeartIcon" class="h-8 w-8 text-black"></BaseIcon>
-      <BaseIcon name="HeartIcon" class="h-8 w-8 text-black"></BaseIcon>
+      <BaseIcon name="ShoppingCartIcon" class="h-8 w-8 text-black"></BaseIcon>
+      <BaseIcon name="BellIcon" class="h-8 w-8 text-black"></BaseIcon>
       <BaseIcon name="UserCircleIcon" class="h-10 w-10 text-black"></BaseIcon>
     </div>
   </div>
