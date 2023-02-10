@@ -2,6 +2,9 @@
   <router-view />
 </template>
 
+<script setup>
+// const config = useAppConfig();
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

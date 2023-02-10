@@ -19,9 +19,9 @@
         <div class="flex">
           <button
             type="button"
-            class="ml-3 flex-1 border border-black bg-purple-600 pt-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+            class="ml-3 flex-1 border border-black bg-purple-600 pt-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-purple-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
           >
-            ADD TO CART
+            ADD TO CART 11
           </button>
           <button
             type="button"
